@@ -1,2 +1,8 @@
 # oldgeek
-Game "Old geek" in bash with pseudo graphics
+Game "Old geek" in Bash with pseudo graphics
+
+-----
+Simple developer simulater
+-----
+
+
